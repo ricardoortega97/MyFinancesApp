@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MyFinances</string>
+    <string name="checking_account">Checking Account</string>
+    <string name="cds">CD</string>
+    <string name="loans">Loans</string>
+    <string name="account_number">Account Number</string>
+    <string name="account_number_txt">Account Number:</string>
+    <string name="initial_balance_txt">Initial Balance:</string>
+    <string name="initial_bal">Initial Balance</string>
+    <string name="current_balance_txt">Current Balance:</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="interest_rate_txt">Interest Rate:</string>
+    <string name="payment">Payment</string>
+    <string name="payment_txt">Payment:</string>
 </resources>
