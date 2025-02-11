@@ -16,39 +16,39 @@ public class CD {
         return cd_id;
     }
 
-    public void setCd_id(int cd_id) {
-        this.cd_id = cd_id;
+    public void setCd_id(int i) {
+        this.cd_id = i;
     }
 
     public int getAccount_number() {
         return account_number;
     }
 
-    public void setAccount_number(int account_number) {
-        this.account_number = account_number;
+    public void setAccount_number(int i) {
+        this.account_number = i;
     }
 
     public float getInitial_balance() {
         return initial_balance;
     }
 
-    public void setInitial_balance(float initial_balance) {
-        this.initial_balance = initial_balance;
+    public void setInitial_balance(float f) {
+        this.initial_balance = f;
     }
 
     public float getInterest_rate() {
         return interest_rate;
     }
 
-    public void setInterest_rate(float interest_rate) {
-        this.interest_rate = interest_rate;
+    public void setInterest_rate(float f) {
+        this.interest_rate = f;
     }
 
     public float getCurrent_balance() {
         return current_balance;
     }
 
-    public void setCurrent_balance(float current_balance) {
-        this.current_balance = current_balance;
+    public void setCurrent_balance(float f) {
+        this.current_balance = f;
     }
 }

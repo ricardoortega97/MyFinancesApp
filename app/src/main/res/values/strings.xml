@@ -13,4 +13,6 @@
     <string name="interest_rate_txt">Interest Rate:</string>
     <string name="payment">Payment</string>
     <string name="payment_txt">Payment:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
